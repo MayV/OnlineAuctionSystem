@@ -6,7 +6,7 @@ Requirements:
 3. Buyers should be allowed to see any auction details including the product details which is being sold in that auction.
 4. Buyers should also be allowed to subscribe to an auction i.e. they should be notified of any change in the auction. While the auction is live, buyers can bid for the product. Buyers who bid in the auction automatically become the subscriber of that auction. The seller is always a subscriber of the auction. Whenever the auction state changes, subscribers are notified.
 
-Optional Requirements (Good to have):
+Optional Requirements (Good to have): 
 Bidders might also make use of an autobidding system. Given a maximum value, each time the user is outbid, the system will automatically try to bid on behalf of the user with the smallest value possible(the predefined increment above will be used to reach this value; calculation must strictly follow it), up until the maximum value has been reached.
 
 Features:
